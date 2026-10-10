@@ -3,16 +3,16 @@
 **Statistics & Probability Course Project**
 
 - **Author:** Arez Sharif
-- **Instructor:** Ostad Khodsopani
-- **Institution:** Nasir al-Din Tusi University of Technology
-- **Date:** Tir 1404 (July 2025)
+- **Instructor:** professor (assistant) Razieh Khodsiani 
+- **Institution:** Nasir al-Din Tusi University of Technology (kntu)
+- **Date:** (July 2025)
 
-## 📌 Overview
+## Overview
 
 Statistical analysis of the factors affecting house prices in India,
 based on a dataset of 479 properties and 22 variables.
 
-## 🔍 Key Findings
+## Key Findings
 
 - **Living area** is the strongest positive predictor of price.
 - **Basement presence** raises mean price by roughly 40%.
